@@ -1,0 +1,11 @@
+.bg-image{
+    height: 576px;
+    width: 1366px;
+    background-color: #F0FFF0;
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+.container{
+    margin-bottom: 40px;
+}
+
