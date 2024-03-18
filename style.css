@@ -1,6 +1,6 @@
 .bg-image{
-    height: 576px;
-    width: 1366px;
+    height: 100%;
+    width: 100%;
     background-color: #F0FFF0;
     background-repeat: no-repeat;
     background-position: fixed;
@@ -8,4 +8,28 @@
 .container{
     margin-bottom: 40px;
 }
+.btn{
+    border-radius: 25px;
+} 
+.card{
+    height: 220px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card1, .card3, .card4{
+    height: 220px;
+    border-radius: 10px;
+    background-color: #F0FFF0;
 
+}
+.courses{
+    font-weight: 700;
+    color: #413960;
+}
+.courses-under{
+    width: 220px;
+    height: 6px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #4bf3a5, #157347, #4bf3a5);
+}
